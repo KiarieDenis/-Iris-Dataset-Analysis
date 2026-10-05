@@ -2,7 +2,7 @@
 
 This project explores the classic Iris flower dataset using Python and machine learning techniques. The main work is contained in the Jupyter notebook `Iris.ipynb`, which loads the dataset, checks data quality, applies preprocessing, and performs clustering with K-Means.
 
-Project goal
+## Project goal
 
 The notebook is designed to:
 
@@ -15,7 +15,7 @@ The notebook is designed to:
 - evaluate the clustering quality with silhouette and Davies-Bouldin scores,
 - compare the cluster labels with the actual species labels.
 
- Dataset
+## Dataset
 
 The dataset is stored in `Iris.csv` and contains 150 observations of Iris flowers. Each row includes:
 
@@ -55,6 +55,6 @@ The species categories are:
 5. Run the cells in order.
 
 
- Notes
+## Notes
 
 This project is a beginner-friendly example of exploratory data analysis and unsupervised machine learning. It demonstrates how to work with a real-world dataset, prepare features for modeling, and evaluate clustering performance.
